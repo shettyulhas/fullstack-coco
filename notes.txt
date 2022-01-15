@@ -1,0 +1,8 @@
+Course notes:
+
+browser-sync activate command:
+browser-sync start --server --directory --files "*"
+
+
+HTML:
+
